@@ -1,0 +1,21 @@
+[user]
+	name = Cristian Orellana
+	email = crorella@gmail.com
+
+[alias]
+	st = status
+	cm = commit
+	co = checkout
+	br = branch
+  pr = pull --rebase
+  cl = clone
+
+[core]
+	editor = vim
+
+[color]
+	branch = auto
+	interactive = auto
+	status = auto
+	diff = auto
+	ui = true
